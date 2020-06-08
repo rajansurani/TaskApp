@@ -1,0 +1,73 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppBar" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionMenuTextColor">#fff</item>
+    </style>
+
+    <style name="heading">
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/navy_blue</item>
+    </style>
+
+    <style name="textfields">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/montserrat</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+    <style name="buttons">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+    <style name="textviews">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="reg_textfields">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/montserrat</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="reg_textviews">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="reg_buttons">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="navigation_menu">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

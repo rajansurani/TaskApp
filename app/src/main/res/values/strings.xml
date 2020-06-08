@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="login">Login</string>
+    <string name="no_account">Do not have a account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="have_account">Alreagy have an account?</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="Open">Open Navigation Drawer</string>
+    <string name="Close">Close Navigation Drawer</string>
+    <string name="action_notification">Notifications</string>
+    <string name="name">User Name</string>
+    <string name="email">Email</string>
+    <string name="title">Title</string>
+    <string name="Allocated_by">Task allocated by :</string>
+    <string name="info">Information on Task</string>
+    <string name="add_member">Add Members to this task :</string>
+    <string name="add">Add</string>
+    <string name="add_file">Add Related files :</string>
+    <string name="file_name">File Name</string>
+    <string name="create_task">Create new Task</string>
+    <string name="update_task">Update Task</string>
+
+
+</resources>
